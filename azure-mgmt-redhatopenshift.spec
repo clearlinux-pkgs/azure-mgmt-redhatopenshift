@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-redhatopenshift
 Version  : 0.1.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/28/9c/e93323b264196847b41e08dc7cfadfc91a7c1b4df1c5eb532261eaa717aa/azure-mgmt-redhatopenshift-0.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/28/9c/e93323b264196847b41e08dc7cfadfc91a7c1b4df1c5eb532261eaa717aa/azure-mgmt-redhatopenshift-0.1.0.zip
 Summary  : Microsoft Azure Red Hat Openshift Management Client Library for Python
